@@ -19,9 +19,10 @@ header, footer {
 
 main {
   background-color: pink;
-  margin-bottom: 20px;
+  margin: 40px;
+  padding: 30px;
 }
 
 footer {
-  margin-top: 40px;
+  margin-top: 60px;
 }
