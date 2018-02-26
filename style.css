@@ -21,6 +21,7 @@ main {
   background-color: pink;
   margin: 40px;
   padding: 30px;
+  border: 40px ridge blue;
 }
 
 footer {
