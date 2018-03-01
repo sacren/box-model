@@ -19,7 +19,7 @@ header, footer {
 
 main {
   background-color: pink;
-  margin: 5%;
+  margin: -30px 5% 5%;
   padding: 5%;
   border: 40px ridge blue;
   width: 10%;
