@@ -24,6 +24,7 @@ main {
   border: 40px ridge blue;
   width: 10%;
   height: 100px;
+  background-clip: content-box;
 }
 
 footer {
