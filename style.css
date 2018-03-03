@@ -20,11 +20,12 @@ header, footer {
 main {
   background-color: pink;
   margin: -30px 5% 5%;
-  padding: 5%;
+  padding: 0 5%;
   border: 40px ridge blue;
-  width: 10%;
-  height: 100px;
+  width: 30%;
+  height: 200px;
   background-clip: content-box;
+  overflow: auto;
 }
 
 footer {
