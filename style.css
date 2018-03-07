@@ -26,6 +26,7 @@ main {
   height: 200px;
   background-clip: content-box;
   overflow: auto;
+  outline: maroon solid 2px;
 }
 
 footer {
