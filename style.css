@@ -22,7 +22,7 @@ main {
   margin: -30px 5% 5%;
   padding: 0 5%;
   border: 40px ridge blue;
-  width: 350px;
+  width: 370px;
   height: 200px;
   background-clip: content-box;
   overflow: auto;
@@ -34,5 +34,5 @@ footer {
 }
 
 p {
-  margin: 0;
+  margin: 0.5em;
 }
